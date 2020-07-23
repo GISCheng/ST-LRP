@@ -1,0 +1,11 @@
+1. The file "ST-LRP.zip" is the zip package of the main programs in this study. The program of the ST-LRP is developed based on the previous work of LRP in Github (TensorFlow LRP Wrapper: https://github.com/VigneshSrinivasan10/interprettensor) (Lapuschkin et al. 2016). All the programs are the Jupyter Notebook files in python (.ipynb):
+(1) The file "Holiday_revise_2019.ipynb" is the program of neural network model training and the spatio-temporal unit evaluation.
+(2) The file "Validation1_revise_Replaced zones.ipybb" is the program of the first validation experiment (replace the zone value of input).
+(3) The file "Validation2_Regression_POI.ipynb" is the program of the second validation experiment (interpretation of unit importance measure difference based on POI data).
+(4) The file "Validation3_Random forests.ipynb" is the program of the third validation experiment (use random forests to evaluate units).
+(5) The file "Validation4_Cluster.ipynb" is the program of the fourth validation experiment (data compression application).
+
+2. The file "Trained Parameters.zip" is the zip package of trained neural network parameters.
+
+Reference
+Lapuschkin, S., et al., 2016. The LRP toolbox for artificial neural networks. The Journal of Machine Learning Research, 17 (1), 3938-3942.
