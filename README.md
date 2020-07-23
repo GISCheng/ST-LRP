@@ -1,2 +1,2 @@
 # ST-LRP
-Codes and Data for a accepted work
+Codes and Data for an accepted work
