@@ -11,21 +11,21 @@ The program of the ST-LRP is developed based on the previous work of LRP in Gith
 Lapuschkin, S., et al., 2016. The LRP toolbox for artificial neural networks. The Journal of Machine Learning Research, 17 (1), 3938-3942.
 
 ## Code description
-1. The file "interprettensor(revision).zip" is the zip package of the main programs in this study. All the programs are the Jupyter Notebook files in python (.ipynb):
+1. The file "ST-LRP.zip" is the zip package of the main programs in this study. All the programs are the Jupyter Notebook files in python (.ipynb):
 
->The file "Holiday_revise_2019.ipynb" is the program of neural network model training and the spatio-temporal unit evaluation.
+>The file "Holiday_revise_2019.ipynb" is the program of neural network model training and the spatio-temporal unit assessment.
 
->The file "Validation1_revise_Replaced zones.ipybb" is the program of the first validation experiment (replace the zone value of input).
+>The file "Validation1_revise_Replaced zones.ipynb" is the program of the first validation experiment (replace the zone value of input).
 
 >The file "Validation2_Regression_POI.ipynb" is the program of the second validation experiment (interpretation of unit importance measure difference based on POI data).
 
->The file "Validation3_Random forests.ipynb" is the program of the third validation experiment (use random forests to evaluate units).
+>The file "Validation3_Random forests.ipynb" is the program of the third validation experiment (use random forests to assess units).
 
 >The file "Validation4_Cluster.ipynb" is the program of the fourth validation experiment (data compression application).
 
 2. The file "Trained Parameters.zip" is the zip package of trained neural network parameters.
 
 ## Data
-The data that support the findings of the study are available in [figshare.com](http://doi.org/10.6084/m9.figshare.9981314) with the permanent link. The data include the training set, validation set, and test set of the model training (i.e. taxi origin point distributions collected in the years of 2016 and 2017) and the inputs for the subsequent validation experiments.
+The data that support the findings of the study are available in [figshare.com](http://doi.org/10.6084/m9.figshare.9981314) with the permanent link. The data include the training set, validation set, and test set of the model training (i.e., taxi origin point distributions collected in the years of 2016 and 2017) and the inputs for the subsequent validation experiments.
 
 ## Cite
