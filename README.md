@@ -13,15 +13,15 @@ Lapuschkin, S., et al., 2016. The LRP toolbox for artificial neural networks. Th
 ## Code description
 1. The file "interprettensor(revision).zip" is the zip package of the main programs in this study. All the programs are the Jupyter Notebook files in python (.ipynb):
 
-The file "Holiday_revise_2019.ipynb" is the program of neural network model training and the spatio-temporal unit evaluation.
+>The file "Holiday_revise_2019.ipynb" is the program of neural network model training and the spatio-temporal unit evaluation.
 
-The file "Validation1_revise_Replaced zones.ipybb" is the program of the first validation experiment (replace the zone value of input).
+>The file "Validation1_revise_Replaced zones.ipybb" is the program of the first validation experiment (replace the zone value of input).
 
-The file "Validation2_Regression_POI.ipynb" is the program of the second validation experiment (interpretation of unit importance measure difference based on POI data).
+>The file "Validation2_Regression_POI.ipynb" is the program of the second validation experiment (interpretation of unit importance measure difference based on POI data).
 
-The file "Validation3_Random forests.ipynb" is the program of the third validation experiment (use random forests to evaluate units).
+>The file "Validation3_Random forests.ipynb" is the program of the third validation experiment (use random forests to evaluate units).
 
-The file "Validation4_Cluster.ipynb" is the program of the fourth validation experiment (data compression application).
+>The file "Validation4_Cluster.ipynb" is the program of the fourth validation experiment (data compression application).
 
 2. The file "Trained Parameters.zip" is the zip package of trained neural network parameters.
 
