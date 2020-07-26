@@ -26,6 +26,6 @@ Lapuschkin, S., et al., 2016. The LRP toolbox for artificial neural networks. Th
 2. The file "Trained Parameters.zip" is the zip package of trained neural network parameters.
 
 ## Data
-The data that support the findings of the study are available in [figshare.com](http://doi.org/10.6084/m9.figshare.9981314) with the permanent link. The data include the training set, validation set, and test set of the model training (i.e., taxi origin point distributions collected in the years of 2016 and 2017) and the inputs for the subsequent validation experiments.
+The data that support the findings of the study are available in [figshare](http://doi.org/10.6084/m9.figshare.9981314) with the permanent link. The data include the training set, validation set, and test set of the model training (i.e., taxi origin point distributions collected in the years of 2016 and 2017) and the inputs for the subsequent validation experiments.
 
 ## Cite
