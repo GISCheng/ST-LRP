@@ -1,4 +1,4 @@
-# ST-LRP
+# Spatio-temporal layer-wise relevance propagation (ST-LRP) method
 
 ## Title: A method to evaluate task-specific importance of spatio-temporal units based on explainable artificial intelligence
 
